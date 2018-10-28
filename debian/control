@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Terminus6x12.h
-Description: Terminus6x12 font for DisplayCore
+Description: Terminus6x12
