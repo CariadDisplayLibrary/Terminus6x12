@@ -1,2 +1,4 @@
-Terminus6x12.cpp libraries/DisplayCore/Terminus6x12
-Terminus6x12.h libraries/DisplayCore/Terminus6x12
+library.json libraries/DisplayCore/Terminus6x12
+library.properties libraries/DisplayCore/Terminus6x12
+README.md libraries/DisplayCore/Terminus6x12
+src libraries/DisplayCore/Terminus6x12
