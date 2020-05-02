@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Terminus6x12 
 
-![Terminus6x12](https://raw.githubusercontent.com/DisplayCore/Terminus6x12/master/Preview/Terminus6x12.png)
+![Terminus6x12](https://raw.githubusercontent.com/Cariad/Terminus6x12/master/Preview/Terminus6x12.png)
 
